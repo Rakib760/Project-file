@@ -1,2 +1,4 @@
 # Project-file
-contain project of amazon  website clone and clock
+Maked Amazon clone project and a clock
+<br>
+Author: <strong>Rakib Shaikh</strong>
